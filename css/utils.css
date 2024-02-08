@@ -19,6 +19,7 @@
 .my-2{
     margin: 26px 0;
     /* width: 25px; */
+    width: max-content;
 }
 .my-1{
     margin: 6px 0;
